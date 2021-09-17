@@ -21,3 +21,25 @@ As Kanye West said:
     <link rel="stylesheet" href="style.css">
 </head>
 ```
+
+./info.html
+
+
+změna | popis
+------|------
+16.9.21|vytvoreno
+17.9.21|pridano info
+
+```<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahoj</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>toto je info</h1>
+</body>
+</html>
+```
