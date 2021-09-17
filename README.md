@@ -22,7 +22,7 @@ As Kanye West said:
 </head>
 ```
 
-[info](https://pslib-cz.github.io/2021l4web-repository-skills-vlcekk/)
+[info](https://pslib-cz.github.io/2021l4web-repository-skills-vlcekk/info.html)
 
 
 změna | popis
