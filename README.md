@@ -22,7 +22,7 @@ As Kanye West said:
 </head>
 ```
 
-./info.html
+[info](./info.html)
 
 
 změna | popis
